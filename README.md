@@ -8,7 +8,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AironWarren&theme=dark&background=000000)](https://git.io/streak-stats)
 
