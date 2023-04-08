@@ -7,11 +7,10 @@
 </div>
 
 <h1 align="center">
-  Hi there, I'm Maxim
+  Hi there, I'm Maxim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  <p style="font-size:40%">
   С сентября 2018 года я - инженер по тестированию программного обеспечения
  </p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
