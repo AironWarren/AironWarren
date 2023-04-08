@@ -1,11 +1,9 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkzZGM5YWNmMDE0YTJiNzQxNTYxNmQwN2Y5NzRkM2MwYTE4ZjZhNyZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" width="300"/>
-  
-  
-  <img src="https://komarev.com/ghpvc/?username=AironWarren&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
+  <img src="https://komarev.com/ghpvc/?username=AironWarren&style=flat-square&color=blue" alt=""/>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
