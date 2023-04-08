@@ -8,10 +8,12 @@
 
 <h1 align="center">
   Hi there, I'm Maxim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<p style="font-family:Arial, sans-serif">
  <span style="font-size:80%">
   Текст параграфа.
  </span>
-</h1>
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
