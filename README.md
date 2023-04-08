@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkzZGM5YWNmMDE0YTJiNzQxNTYxNmQwN2Y5NzRkM2MwYTE4ZjZhNyZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" width="300"/>
 </div>
 
-
+<img src="https://komarev.com/ghpvc/?username=AironWarren&style=flat-square&color=blue" alt=""/>
 
 <h1 align="center">
   hey there
