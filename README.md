@@ -8,7 +8,9 @@
 
 <h1 align="center">
   Hi there, I'm Maxim
-  С сентября 2018 года я - инженер по тестированию программного обеспечения
+  <p style="font-size:90%">
+    С сентября 2018 года я - инженер по тестированию программного обеспечения
+  </p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
