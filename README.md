@@ -13,11 +13,6 @@
   Since March 2023, I have been a software testing engineer.
 </div>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ### :woman_technologist: About Me :
 I am a QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
