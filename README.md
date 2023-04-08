@@ -40,9 +40,6 @@ I am a QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 #
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AironWarren&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AironWarren&theme=dark&background=000000)](https://github.com/AironWarren/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AironWarren&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AironWarren)](https://github.com/AironWarren/github-readme-stats)
-
