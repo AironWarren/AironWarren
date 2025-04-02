@@ -1,4 +1,4 @@
-# Привет, меня зовут [Максим]! 👋
+# Привет, меня зовут Максим! 👋
 
 [![GitHub Followers](https://img.shields.io/github/followers/ВАШ_НИК?label=Follow%20me&style=social)](https://github.com/AironWarren)
 
@@ -10,7 +10,7 @@
 ## 🛠 Мой стек технологий
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![С/С++](https://img.shields.io/badge/С-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![С/С++](#00599C)
 
 ## 📈 Моя статистика GitHub
 
