@@ -10,7 +10,7 @@
 ## 🛠 Мой стек технологий
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![С/С++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![С/С++](https://img.shields.io/badge/С-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📈 Моя статистика GitHub
 
