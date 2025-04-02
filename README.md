@@ -3,14 +3,12 @@
 [![GitHub Followers](https://img.shields.io/github/followers/ВАШ_НИК?label=Follow%20me&style=social)](https://github.com/AironWarren)
 
 🌱 Сейчас изучаю: С++
-👯 Хочу сотрудничать по: [тема/проект]  
-💬 Спросите меня о: [ваша экспертиза]  
-📫 Как связаться: [https://t.me/AironWarren]  
+📫 Как связаться: https://t.me/AironWarren
 
 ## 🛠 Мой стек технологий
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![С/С++](#00599C)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 📈 Моя статистика GitHub
 
