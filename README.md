@@ -3,6 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/ВАШ_НИК?label=Follow%20me&style=social)](https://github.com/AironWarren)
 
 🌱 Сейчас изучаю: С++
+
 📫 Как связаться: https://t.me/AironWarren
 
 ## 🛠 Мой стек технологий
